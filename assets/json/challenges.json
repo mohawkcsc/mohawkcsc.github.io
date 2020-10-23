@@ -1,0 +1,11 @@
+[
+{
+    "week": 1,
+    "beginnerChallenge":"Here is week 1s weekly challenge. The challenge is broken down into both beginner and intermediate levels where the goal is to retrieve the password somewhere in these lines of code. Post the uncovered passwords under #💡kevins-weekly-chal-solutions in our discord",
+    "intermediateChallenge":"My super-duper encrypt-o-matic system messed up the algorithm to encrypt my password in. Can you help me reclaim my password?\nDtdnF25tGtwpGELnktF6PNGuXOI4E3wHQNjgGX==",
+    "beginnerSolution": "If you are reading this, you've figured out that the first part of my message is base-16( hex/hexadecimal) encoded. Continue on to the second code <= (base-16 encoded) if you're able to read this; then you figured out that this type of encryption is a261z. onto the final reveal <= (A261Z encoded) You've uncovered the last message! It is base-64 encoded and my password is: 3ncrypt_th1$ <= (base-64 encoded)",
+    "intermediateSolution":"DtdnF25tGtwpGELnktF6PNGuXOI4E3wHQNjgGX== (Caesar Cipher - shift 7)\nWmwgY25mZmpiZXEgdmY6IGZnQHB4X3pAJGczZQ== (base 64) Final Solution:\nMy password is: st@ck_m@$t3r",
+    "Resources":[{"name":"Cryptii", "link":"https://cryptii.com/"}]
+}
+
+]
