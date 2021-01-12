@@ -1,97 +1,107 @@
 [
-  {
-    "path": "assets\\meeting_minutes\\Minutes_-_Nov_26_2020.pdf",
-    "date": "November 26 2020",
-    "filename": "Minutes_-_Nov_26_2020.pdf"
-  },
-  {
-    "path": "assets\\meeting_minutes\\Minutes_-_Nov_19_2020.pdf",
-    "date": "November 19 2020",
-    "filename": "Minutes_-_Nov_19_2020.pdf"
-  },
-  {
-    "path": "assets\\meeting_minutes\\Minutes_-_Nov_12_2020.pdf",
-    "date": "November 12 2020",
-    "filename": "Minutes_-_Nov_12_2020.pdf"
-  },
-  {
-    "path": "assets\\meeting_minutes\\Minutes_-_Nov_5_2020.pdf",
-    "date": "November 5 2020",
-    "filename": "Minutes_-_Nov_5_2020.pdf"
-  },
-  {
-    "path": "assets\\meeting_minutes\\Minutes_-_Oct_29_2020.pdf",
-    "date": "October 29 2020",
-    "filename": "Minutes_-_Oct_29_2020.pdf"
-  },
-  {
-    "path": "assets\\meeting_minutes\\Minutes_-_Oct_22_2020.pdf",
-    "date": "October 22 2020",
-    "filename": "Minutes_-_Oct_22_2020.pdf"
-  },
-  {
-    "path": "assets\\meeting_minutes\\Minutes_-_Oct_15_2020.docx",
-    "date": "October 15 2020",
-    "filename": "Minutes_-_Oct_15_2020.docx"
-  },
-  {
-    "path": "assets\\meeting_minutes\\Minutes_-_Oct_8_2020.docx",
-    "date": "October 8 2020",
-    "filename": "Minutes_-_Oct_8_2020.docx"
-  },
-  {
-    "path": "assets\\meeting_minutes\\Minutes_-_Oct_1_2020.docx",
-    "date": "October 1 2020",
-    "filename": "Minutes_-_Oct_1_2020.docx"
-  },
-  {
-    "path": "assets\\meeting_minutes\\Minutes_-_September_17_2020.docx",
-    "date": "September 17 2020",
-    "filename": "Minutes_-_September_17_2020.docx"
-  },
-  {
-    "path": "assets\\meeting_minutes\\Minutes_-_Aug_31_2020.docx",
-    "date": "August 31 2020",
-    "filename": "Minutes_-_Aug_31_2020.docx"
-  },
-  {
-    "path": "assets\\meeting_minutes\\Minutes_-_Aug_24_2020.docx",
-    "date": "August 24 2020",
-    "filename": "Minutes_-_Aug_24_2020.docx"
-  },
-  {
-    "path": "assets\\meeting_minutes\\Minutes_-_Aug_10_2020.docx",
-    "date": "August 10 2020",
-    "filename": "Minutes_-_Aug_10_2020.docx"
-  },
-  {
-    "path": "assets\\meeting_minutes\\Minutes_-_Aug_3_2020.docx",
-    "date": "August 3 2020",
-    "filename": "Minutes_-_Aug_3_2020.docx"
-  },
-  {
-    "path": "assets\\meeting_minutes\\Minutes_-_July_27_2020.docx",
-    "date": "July 27 2020",
-    "filename": "Minutes_-_July_27_2020.docx"
-  },
-  {
-    "path": "assets\\meeting_minutes\\Minutes_-_July_20_2020.docx",
-    "date": "July 20 2020",
-    "filename": "Minutes_-_July_20_2020.docx"
-  },
-  {
-    "path": "assets\\meeting_minutes\\Minutes_-_July_13_2020.docx",
-    "date": "July 13 2020",
-    "filename": "Minutes_-_July_13_2020.docx"
-  },
-  {
-    "path": "assets\\meeting_minutes\\Minutes_-_July_6_2020.docx",
-    "date": "July 6 2020",
-    "filename": "Minutes_-_July_6_2020.docx"
-  },
-  {
-    "path": "assets\\meeting_minutes\\Minutes_-_June_22.docx",
-    "date": "June 22",
-    "filename": "Minutes_-_June_22.docx"
-  }
-]
+    
+    {
+        "path": "assets\\meeting_minutes\\Minutes_-_Jan_7_2021.pdf",
+        "date": "January 7 2020",
+        "filename": "Minutes_-_Jan_7_2021.pdf"
+      },
+      {
+        "path": "assets\\meeting_minutes\\Minutes_-_Dec_10_2020.pdf",
+        "date": "December 10 2020",
+        "filename": "Minutes_-_Dec_10_2020.pdf"
+      },{
+      "path": "assets\\meeting_minutes\\Minutes_-_Nov_26_2020.pdf",
+      "date": "November 26 2020",
+      "filename": "Minutes_-_Nov_26_2020.pdf"
+    },
+    {
+      "path": "assets\\meeting_minutes\\Minutes_-_Nov_19_2020.pdf",
+      "date": "November 19 2020",
+      "filename": "Minutes_-_Nov_19_2020.pdf"
+    },
+    {
+      "path": "assets\\meeting_minutes\\Minutes_-_Nov_12_2020.pdf",
+      "date": "November 12 2020",
+      "filename": "Minutes_-_Nov_12_2020.pdf"
+    },
+    {
+      "path": "assets\\meeting_minutes\\Minutes_-_Nov_5_2020.pdf",
+      "date": "November 5 2020",
+      "filename": "Minutes_-_Nov_5_2020.pdf"
+    },
+    {
+      "path": "assets\\meeting_minutes\\Minutes_-_Oct_29_2020.pdf",
+      "date": "October 29 2020",
+      "filename": "Minutes_-_Oct_29_2020.pdf"
+    },
+    {
+      "path": "assets\\meeting_minutes\\Minutes_-_Oct_22_2020.pdf",
+      "date": "October 22 2020",
+      "filename": "Minutes_-_Oct_22_2020.pdf"
+    },
+    {
+      "path": "assets\\meeting_minutes\\Minutes_-_Oct_15_2020.docx",
+      "date": "October 15 2020",
+      "filename": "Minutes_-_Oct_15_2020.docx"
+    },
+    {
+      "path": "assets\\meeting_minutes\\Minutes_-_Oct_8_2020.docx",
+      "date": "October 8 2020",
+      "filename": "Minutes_-_Oct_8_2020.docx"
+    },
+    {
+      "path": "assets\\meeting_minutes\\Minutes_-_Oct_1_2020.docx",
+      "date": "October 1 2020",
+      "filename": "Minutes_-_Oct_1_2020.docx"
+    },
+    {
+      "path": "assets\\meeting_minutes\\Minutes_-_September_17_2020.docx",
+      "date": "September 17 2020",
+      "filename": "Minutes_-_September_17_2020.docx"
+    },
+    {
+      "path": "assets\\meeting_minutes\\Minutes_-_Aug_31_2020.docx",
+      "date": "August 31 2020",
+      "filename": "Minutes_-_Aug_31_2020.docx"
+    },
+    {
+      "path": "assets\\meeting_minutes\\Minutes_-_Aug_24_2020.docx",
+      "date": "August 24 2020",
+      "filename": "Minutes_-_Aug_24_2020.docx"
+    },
+    {
+      "path": "assets\\meeting_minutes\\Minutes_-_Aug_10_2020.docx",
+      "date": "August 10 2020",
+      "filename": "Minutes_-_Aug_10_2020.docx"
+    },
+    {
+      "path": "assets\\meeting_minutes\\Minutes_-_Aug_3_2020.docx",
+      "date": "August 3 2020",
+      "filename": "Minutes_-_Aug_3_2020.docx"
+    },
+    {
+      "path": "assets\\meeting_minutes\\Minutes_-_July_27_2020.docx",
+      "date": "July 27 2020",
+      "filename": "Minutes_-_July_27_2020.docx"
+    },
+    {
+      "path": "assets\\meeting_minutes\\Minutes_-_July_20_2020.docx",
+      "date": "July 20 2020",
+      "filename": "Minutes_-_July_20_2020.docx"
+    },
+    {
+      "path": "assets\\meeting_minutes\\Minutes_-_July_13_2020.docx",
+      "date": "July 13 2020",
+      "filename": "Minutes_-_July_13_2020.docx"
+    },
+    {
+      "path": "assets\\meeting_minutes\\Minutes_-_July_6_2020.docx",
+      "date": "July 6 2020",
+      "filename": "Minutes_-_July_6_2020.docx"
+    },
+    {
+      "path": "assets\\meeting_minutes\\Minutes_-_June_22.docx",
+      "date": "June 22",
+      "filename": "Minutes_-_June_22.docx"
+    }
+  ]
