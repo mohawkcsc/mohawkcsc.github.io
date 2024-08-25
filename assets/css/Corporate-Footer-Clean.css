@@ -23,20 +23,8 @@
 }
 
 .page-footer .footer-links a {
-<<<<<<< HEAD
   color: #555;
   font-size: 11px;
-=======
-  color: #007bff; /* Cyber Blue */
-  font-size: 11px;
-  text-decoration: none;
-  transition: color 0.3s ease;
-}
-
-.page-footer .footer-links a:hover {
-  color: #39ff14; /* Neon Green */
-  text-decoration: underline;
->>>>>>> 6fba34a (Updated website with modernized code and added additional resources and readings)
 }
 
 .page-footer .footer-links li {
@@ -60,11 +48,7 @@
 }
 
 .page-footer .footer-legal .legal-links .item h5 {
-<<<<<<< HEAD
   font-size: 11px;
-=======
-  font-size: 18px;
->>>>>>> 6fba34a (Updated website with modernized code and added additional resources and readings)
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -75,64 +59,16 @@
 
 .page-footer .region a {
   color: #555;
-<<<<<<< HEAD
   font-size: 11px;
-=======
-  font-size: 25px;
->>>>>>> 6fba34a (Updated website with modernized code and added additional resources and readings)
 }
 
 .page-footer .region img {
   margin-right: 7px;
 }
 
-<<<<<<< HEAD
-=======
-.footer-legal {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.footer-social {
-  flex: 1;
-}
-
-.copyright {
-  flex: 2;
-  text-align: center;
-}
-
-.region {
-  flex: 1;
-  text-align: right;
-}
-
->>>>>>> 6fba34a (Updated website with modernized code and added additional resources and readings)
 @media (min-width: 768px) {
   .page-footer .region {
     margin-bottom: 0;
   }
 }
 
-<<<<<<< HEAD
-=======
-@media (max-width: 767px) {
-  .footer-legal {
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .footer-social, .copyright, .region {
-    margin-bottom: 10px;
-    text-align: center;
-  }
-}
-
-.bug-report-label {
-  display: block;
-  margin-bottom: 5px;
-  font-size: 11px;
-  color: #333333;
-}
->>>>>>> 6fba34a (Updated website with modernized code and added additional resources and readings)
